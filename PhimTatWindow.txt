@@ -1,0 +1,36 @@
+1/ Window+Shift+S ==> Chụp ảnh màn hình, có khá nhiều chế độ chụp có thể thử 
+
+2/ F5: Refresh lại Web site (giữ nguyên cache)
+   Ctrl+F5: Refresh lại Website bao gồm cả refresh cache
+   
+3/ Ctrl+Shift+Esc: Mở task manager trên Win10
+	(Ctrl+Alt+Del sẽ chỉ mở ra được màn hình logout, từ đó click vào task manager mới  mở ra được)
+	
+4/ Alt+Tab  ==> Show ra các task đang làm, giữ Alt và gõ Tab để switch giữa các task
+
+5/ Window+Tab ==> Cũng dhow ra các task đang làm , dùng các phím mũi tên để điều hướng.
+	Ngoài ra có thể tạo desktop mới, rất tiện để tạo 1 desktop cho công việc, 1 desktop để làm việc khác
+6/Window + Các phím mũi tên: Điều chỉnh cửa sổ làm việc trên cùng 
+
+7/Window + mũi tên xuống 2 lần ==> đóng task vụ đó xuống 
+
+8/ Window +1/2/3... Mở/đóng  ứng dụng thứ 1/2/3 trên taskbar 
+
+9/ Window +E ==> Mở thêm 1 window explore
+
+10/ Window + D ==> Đóng all task vụ lại 
+11/ Window + L ==> Lock màn hình 
+
+12/ Window +P ==>Chỉnh chế độ nhiều màn hình 
+
+13/ Window + R ==> Mở cửa sổ run 
+
+14/ Window + V ==> Mở bảng chứa lịch sử đã coppy để dán 
+
+13: Lắc
+	Có nhiều task vụ đang hoạt động gây rối rắm, muốn  đóng hết xuống, chỉ để lại task vụ đang làm việc
+	==>giữ chuột vào đầu task vụ đó và lắc ==> các task vụ khác sẽ đóng xuống, muốn hiển ra trở lại thì lại lắc lần nữa 
+	
+14: type nul > file.txt ==> Tạo file 
+
+15:Ctr+Shift+N ==>Tạo mới Folder
